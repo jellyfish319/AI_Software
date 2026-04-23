@@ -1,0 +1,27 @@
+
+[
+	{
+	  "question": "List all genres of the movie 'The Shed'."
+	},
+	{
+	  "question": "What is the plot summary of 'Tell Me No Secrets' in one sentence?"
+	},
+	{
+	  "question": "Which genres does 'Godzilla: The Planet Eater' belong to?"
+	},
+	{
+	  "question": "Summarize the plot of 'Omar Killed Me' in one sentence."
+	},
+	{
+	  "question": "What is the genre of the movie 'The Nosy One'?"
+	},
+	{
+	  "question": "What kind of atmosphere does 'The Shed' poster have?"
+	},
+	{
+	  "question": "Does the 'Jersey Girl' poster feel bright or dark?"
+	},
+	{
+	  "question": "Does the 'Savage Play' poster suggest a modern or historical time period?"
+	}
+]
